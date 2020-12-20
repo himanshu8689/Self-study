@@ -1,2 +1,2 @@
 # Self-study
-Python
+Python session by INeuron
